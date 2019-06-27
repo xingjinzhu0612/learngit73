@@ -1,7 +1,9 @@
-git is version system
+ogit is version system
 
 git is free system
 
 my name is readfile
 
 my bass still svn
+
+hello  word
